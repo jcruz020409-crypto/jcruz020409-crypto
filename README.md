@@ -1,75 +1,61 @@
-<h1 align="center">Hi, I'm José Cruz </h1>
+<h1 align="center">Hi, I'm José Cruz 👋</h1>
 
 <p align="center">
   <strong>Engineering Student in Intelligent Computing</strong><br>
-  Passionate about software development, artificial intelligence, databases, data analysis, and applied technology.
+  Software Development • Artificial Intelligence • Databases • Data Analysis • Web & Mobile Development
 </p>
 
 ---
 
 ## About Me
 
-I am an Engineering student in Intelligent Computing focused on developing practical, innovative, and technology-driven solutions. I enjoy combining programming, logic, and creativity to solve real-world problems through software, intelligent systems, and data-based approaches.
+I am an Engineering student in Intelligent Computing passionate about creating practical, innovative, and technology-driven solutions. My interests include software development, artificial intelligence, databases, web development, mobile applications, and data analysis.
 
-I am constantly learning new tools and improving my technical skills in order to grow as a developer and contribute to impactful projects.
+I enjoy learning new tools, improving my technical skills, and applying technology to solve real-world problems through well-structured and meaningful projects.
 
 ---
 
 ## Focus Areas
 
-- 💻 Software Development  
-- 🤖 Artificial Intelligence  
-- 📊 Data Analysis  
-- 🗄️ Database Management  
-- 🌐 Web Development  
-- 🚀 Applied Technology Projects  
+- 💻 Software Development
+- 🤖 Artificial Intelligence
+- 📊 Data Analysis
+- 🗄️ Database Management
+- 🌐 Web Development
+- 📱 Mobile App Development
+- 🚀 Applied Technology Projects
 
 ---
 
 ## Technologies I Use
 
-### Languages
-- Python
-- C#
-- PHP
-- JavaScript
-- SQL
-
-### Frameworks & Platforms
-- FastAPI
-- Next.js
-- Streamlit
-- Unity
-
-### Databases
-- MySQL
-- PostgreSQL
-- Supabase
-
-### Tools
-- Git
-- GitHub
-- Docker
-- VS Code
-- Linux
+- **Programming Languages:** Python, C#, PHP, JavaScript, SQL, Dart  
+- **Frontend Development:** HTML, CSS, React, Next.js  
+- **Mobile Development:** Flutter  
+- **Backend Development:** FastAPI, Streamlit, PHP  
+- **Databases:** MySQL, PostgreSQL, Supabase  
+- **Tools & Platforms:** Git, GitHub, Docker, VS Code, Android Studio, Linux, Unity  
 
 ---
 
 ## Currently Learning
 
-- Machine learning and AI applications  
-- Backend and full-stack development  
-- Database-driven systems  
-- Scalable and practical software solutions  
+- Machine learning and AI applications
+- Full-stack and mobile app development
+- Scalable backend systems
+- Data-driven applications
+- Modern software engineering practices
 
 ---
 
-## What I’m Looking For
+## Professional Interests
 
-- Opportunities to keep learning and improving  
-- Interesting software and technology projects  
-- Real-world applications of AI and data analysis  
-- Collaboration on innovative development ideas  
+- Intelligent systems
+- AI-powered software
+- Web and mobile applications
+- Database systems
+- Data analysis and visualization
+- Real-world technology solutions
 
 ---
 
@@ -82,4 +68,4 @@ I am constantly learning new tools and improving my technical skills in order to
 
 ## Closing
 
-Thanks for visiting my profile. I am always motivated to learn, build, and improve through technology.
+Thanks for visiting my profile. I am always motivated to learn, build, and grow through technology.
