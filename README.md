@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm José Cruz 👋
 
-<!--
-**jcruz020409-crypto/jcruz020409-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student in Intelligent Computing interested in software development, databases, artificial intelligence, data analysis, and applied technology projects.
 
-Here are some ideas to get you started:
+## About me
+- 🎓 I am currently studying Intelligent Computing Engineering.
+- 💻 I am interested in software development, databases, AI, and data analysis.
+- 🚀 I enjoy building practical solutions and exploring new technologies.
+- 🌱 I am constantly improving my technical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech interests
+- Software Development
+- Databases
+- Artificial Intelligence
+- Data Analysis
+- Applied Technology Projects
+
+## Currently learning
+- Advanced programming concepts
+- AI and machine learning applications
+- Web development and data-driven systems
+
+## Contact
+- 📫 Email: [jcruz020409@gmail.com](mailto:jcruz020409@gmail.com)
+- 💼 LinkedIn: [José Cruz](https://www.linkedin.com/in/jose-cruz-695865340/)
