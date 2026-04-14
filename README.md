@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm José Cruz 👋</h1>
+<h1 align="center">Hi, I'm José Cruz </h1>
 
 <p align="center">
   <strong>Engineering Student in Intelligent Computing</strong><br>
