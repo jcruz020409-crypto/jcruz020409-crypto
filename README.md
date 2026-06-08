@@ -116,26 +116,6 @@ The project integrates deep learning, ECG signal/image analysis, backend service
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jcruz020409-crypto&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jcruz020409-crypto/jcruz020409-crypto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 📫 Contact
 
 - GitHub: [jcruz020409-crypto](https://github.com/jcruz020409-crypto)
