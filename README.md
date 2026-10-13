@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | AI & Computer Vision | Backend Engineering | Offline-First Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Intelligent+Computing+Engineering+Student;AI+%7C+Software+Development+%7C+Data+Analysis;Building+technology+to+solve+real+problems;Currently+working+on+an+AI-assisted+ECG+platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Computer+Vision;Backend+Engineering+%26+Enterprise+Systems;Offline-First+Mobile+Applications;Building+Reliable+Software+for+Real-World+Operations" alt="Typing SVG" />
 
 </div>
 
@@ -40,6 +40,8 @@ Currently completing my professional internship at SSA Marine, gaining hands-on 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -81,6 +83,34 @@ Currently completing my professional internship at SSA Marine, gaining hands-on 
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Featured Engineering Projects
+
+### [LeadPilot AI](https://github.com/jcruz020409-crypto/leadpilot-ai)
+A multi-agent AI platform for researching businesses, identifying opportunities and generating sales proposals. Features structured AI workflows, backend services and report generation.
+
+### [Open-Audit](https://github.com/jcruz020409-crypto/Open-Audit)
+An open-source tool for translating Stellar/Soroban smart contract events into understandable information, with a web dashboard and documented microservices architecture.
+
+### [StreamPay Frontend](https://github.com/jcruz020409-crypto/StreamPay-Frontend)
+A Next.js and TypeScript application for Stellar wallet integration and payment-stream management, featuring API versioning, automated tests and security-focused configuration.
+
+### [Astera](https://github.com/jcruz020409-crypto/Astera)
+A Stellar/Soroban-focused project with Rust smart contracts, frontend components, development tooling and technical documentation.
+
+> Professional work completed during my internship is described only at a general level. Internal code, operational data and proprietary implementations are not shared here.
+
+---
+
+## 🧩 Software Architecture & Engineering
+
+- **Backend:** API design and integration, data validation, SQL and enterprise workflows.
+- **Mobile:** .NET MAUI, local persistence with SQLite and offline-first application patterns.
+- **AI:** OCR, computer vision, machine learning and practical automation.
+- **Security:** secure local storage, encryption concepts and responsible handling of sensitive data.
+- **Engineering tools:** Git, Linux, testing, debugging and technical documentation.
 
 ---
 
