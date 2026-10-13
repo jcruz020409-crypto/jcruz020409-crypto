@@ -51,6 +51,10 @@ Currently completing my professional internship at SSA Marine, gaining hands-on 
 
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
@@ -89,6 +93,9 @@ Currently completing my professional internship at SSA Marine, gaining hands-on 
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0A97F5?style=for-the-badge&logo=windows&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -136,6 +143,24 @@ The project integrates deep learning, ECG signal/image analysis, backend service
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-2E8B57?style=for-the-badge)
+
+---
+
+## 🎓 Education
+
+**B.Eng. in Intelligent Computing Engineering**  
+Universidad de Colima, Mexico
+
+---
+
+## 🏗️ Professional Skills & Software Architecture
+
+- **Mobile engineering:** Android development with Kotlin and Java, cross-platform development with .NET MAUI and Flutter, and offline-first application design.
+- **Backend engineering:** C#/.NET, Python, Oracle APEX, PL/SQL, Oracle REST Data Services (ORDS), API integration and data validation.
+- **Data & reliability:** SQLite, relational databases, local persistence, synchronization strategies and resilient workflows for intermittent connectivity.
+- **AI & computer vision:** OCR, image processing, machine learning, deep learning and object-detection workflows.
+- **Security-minded development:** encrypted data handling, secure local storage, authentication concepts and responsible treatment of sensitive information.
+- **Development practices:** Git, Docker, Linux/WSL, automated testing, technical documentation and CI/CD tooling.
 
 ---
 
