@@ -2,6 +2,8 @@
 
 # Hi, I'm José Ramón Cruz Rodríguez 👋
 
+### Full Stack Developer | AI & Computer Vision | Backend Engineering | Offline-First Systems
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Intelligent+Computing+Engineering+Student;AI+%7C+Software+Development+%7C+Data+Analysis;Building+technology+to+solve+real+problems;Currently+working+on+an+AI-assisted+ECG+platform" alt="Typing SVG" />
 
 </div>
@@ -10,40 +12,37 @@
 
 ## 👨‍💻 About Me
 
-I am an **Intelligent Computing Engineering student** from Colima, Mexico.
+I am an **Intelligent Computing Engineering student and software developer** based in Colima, Mexico, focused on building practical, secure and reliable software for real-world operations.
 
-I am interested in **software development, artificial intelligence, databases, web development, backend systems, data analysis, automation, and applied technology projects**.
-
-I enjoy creating practical solutions that combine programming, data, and intelligent systems to solve real-world problems.
+My core interests include **artificial intelligence, computer vision, backend engineering, enterprise systems and offline-first mobile applications**. I work with C#, .NET MAUI, Python, Oracle APEX, PL/SQL and SQL, combining local data processing, database integration and automation to solve operational challenges.
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 Current Focus
 
-Currently, my main project is an **AI-assisted ECG Diagnostic Platform**, focused on supporting the analysis of electrocardiogram data and the generation of clinical reports.
-
-This project combines:
-
-- Artificial Intelligence
-- Deep Learning
-- ECG signal and image analysis
-- Backend development
-- Web technologies
-- Clinical report generation
+- **AI & Computer Vision:** OCR, image recognition, deep learning and intelligent automation.
+- **Backend & Enterprise Systems:** C#, .NET, Oracle APEX, PL/SQL, SQL and service integration.
+- **Offline-First Mobile Systems:** .NET MAUI, SQLite, local processing, secure storage and deferred synchronization.
+- **Applied Engineering:** reliable workflows, data validation and security-conscious architecture.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
+### Programming Languages & Enterprise Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-C74634?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Web & Backend Development
+### Web, Backend & Mobile Development
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,6 +52,9 @@ This project combines:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Databases & Cloud
+
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -93,6 +95,10 @@ The project integrates deep learning, ECG signal/image analysis, backend service
 ![CNN](https://img.shields.io/badge/CNN-2E8B57?style=for-the-badge)
 
 ---
+
+## 💡 Engineering Interests
+
+I am particularly interested in developing **AI-powered solutions that run reliably in real operational environments**, including systems with intermittent connectivity, local databases, computer vision pipelines and secure enterprise integrations.
 
 ## 📊 GitHub Stats
 
