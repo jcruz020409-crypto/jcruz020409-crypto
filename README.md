@@ -18,6 +18,13 @@ My core interests include **artificial intelligence, computer vision, backend en
 
 ---
 
+## 💼 Professional Experience
+
+**Software Development Intern | SSA Marine Mexico**  
+Currently completing my professional internship at SSA Marine, gaining hands-on experience with software development and technology solutions in a port operations environment.
+
+---
+
 ## 🚀 Current Focus
 
 - **AI & Computer Vision:** OCR, image recognition, deep learning and intelligent automation.
